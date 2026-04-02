@@ -3,7 +3,6 @@ This is a clone for amazon website
 Amazon Clone Project
 
 # 🛒 Amazon Clone (Frontend Project)
-# 🛒 Amazon Clone (Frontend Project)
 
 ## 📌 Project Overview
 
